@@ -20,7 +20,6 @@ A few things you might like:
 - **[jellyfin-dart](https://github.com/devaryakjha/jellyfin-dart)** — Type-safe, auto-generated Dart client for Jellyfin’s API  
 
 ## Stats (auto-updating)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devaryakjha&show_icons=true&hide_title=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devaryakjha&layout=compact)
 
 ## Say hi
