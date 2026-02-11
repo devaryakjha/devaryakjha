@@ -14,7 +14,7 @@ Hi — I build software and ship practical tools. Most of my work is in **Flutte
 ## Projects
 A few things you might like:
 
-- **[oore.build](https://github.com/devaryakjha/oore.build)** — Self-hosted, Mac-first build & release hub for Flutter  
+- **[oore.build](https://github.com/devaryakjha/oore.build)** — Self-hosted, Flutter-first mobile CI and internal app distribution platform  
 - **[tagflow](https://github.com/devaryakjha/tagflow)** — HTML → Flutter widgets via configurable parsing  
 - **[anpec](https://github.com/devaryakjha/anpec)** — Android device performance classification for Flutter  
 - **[jellyfin-dart](https://github.com/devaryakjha/jellyfin-dart)** — Type-safe, auto-generated Dart client for Jellyfin’s API  
