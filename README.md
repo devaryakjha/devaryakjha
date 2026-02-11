@@ -19,8 +19,5 @@ A few things you might like:
 - **[anpec](https://github.com/devaryakjha/anpec)** — Android device performance classification for Flutter  
 - **[jellyfin-dart](https://github.com/devaryakjha/jellyfin-dart)** — Type-safe, auto-generated Dart client for Jellyfin’s API  
 
-## Stats (auto-updating)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devaryakjha&layout=compact)
-
 ## Say hi
 If you’re building something interesting in Flutter tooling or dev experience, feel free to reach out.
