@@ -1,4 +1,4 @@
-# Aryakumar Jha (@devaryakjha)
+# Aryakumar Jha
 
 Hi — I build software and ship practical tools. Most of my work is in **Flutter/Dart**, and I’m increasingly working on **systems/tooling** (e.g. **Rust**).
 
