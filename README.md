@@ -14,10 +14,10 @@ Hi — I build software and ship practical tools. Most of my work is in **Flutte
 ## Projects
 A few things you might like:
 
-- **[oore.build](https://github.com/devaryakjha/oore.build)** — Self-hosted, Flutter-first mobile CI and internal app distribution platform  
-- **[tagflow](https://github.com/devaryakjha/tagflow)** — HTML → Flutter widgets via configurable parsing  
-- **[anpec](https://github.com/devaryakjha/anpec)** — Android device performance classification for Flutter  
+- **[oore.build](https://github.com/devaryakjha/oore.build)** — Self-hosted, Flutter-first mobile CI and internal app distribution platform
 - **[bonsai](https://github.com/devaryakjha/bonsai)** — Native macOS Git client built in the open
+- **[tagflow](https://github.com/devaryakjha/tagflow)** — HTML → Flutter widgets via configurable parsing  
+- **[anpec](https://github.com/devaryakjha/anpec)** — Android device performance classification for Flutter
 
 ## Say hi
 If you’re building something interesting in Flutter tooling or dev experience, feel free to reach out.
