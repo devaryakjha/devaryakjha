@@ -18,6 +18,7 @@ A few things you might like:
 - **[bonsai](https://github.com/devaryakjha/bonsai)** — Native macOS Git client built in the open
 - **[tagflow](https://github.com/devaryakjha/tagflow)** — HTML → Flutter widgets via configurable parsing  
 - **[anpec](https://github.com/devaryakjha/anpec)** — Android device performance classification for Flutter
+- **[seisei](https://github.com/devaryakjha/seisei)** — Typed AI contracts for Flutter apps.
 
 ## Say hi
 If you’re building something interesting in Flutter tooling or dev experience, feel free to reach out.
