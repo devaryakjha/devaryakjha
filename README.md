@@ -1,6 +1,6 @@
 # Aryakumar Jha
 
-Hi — I build software and ship practical tools. Most of my work is in **Flutter/Dart**, and I’m increasingly working on **systems/tooling** (e.g. **Rust**).
+Hi, I build software and ship practical tools. Most of my work is in **Flutter/Dart**, and I’m increasingly working on **systems/tooling** (e.g. **Rust**).
 
 - Tech at **[@zerodha](https://github.com/zerodha)**
 - Website: https://arya.jha.sh
