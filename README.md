@@ -1,23 +1,16 @@
 # Aryakumar Jha
 
-Hi, I build software and ship practical tools. Most of my work is in **Flutter/Dart**, and I’m increasingly working on **systems/tooling** (e.g. **Rust**).
+I build software, mostly with Flutter and Dart. A lot of my side projects are developer tools, with some Rust and Go mixed in.
 
-- Tech at **[@zerodha](https://github.com/zerodha)**
-- Website: https://arya.jha.sh
-- Contact: me@aryak.dev
+I work at [Zerodha](https://github.com/zerodha).
 
-## What I’m focused on
-- Developer tooling, build/release workflows, and performance-minded apps
-- Clean, maintainable Flutter packages and pragmatic integrations
+[Website](https://aryak.dev) · [Email](mailto:me@aryak.dev)
 
 ## Projects
-A few things you might like:
 
-- **[oore.build](https://github.com/devaryakjha/oore.build)** — Self-hosted, Flutter-first mobile CI and internal app distribution platform
-- **[bonsai](https://github.com/devaryakjha/bonsai)** — Native macOS Git client built in the open
-- **[tagflow](https://github.com/devaryakjha/tagflow)** — HTML → Flutter widgets via configurable parsing  
-- **[anpec](https://github.com/devaryakjha/anpec)** — Android device performance classification for Flutter
-- **[seisei](https://github.com/devaryakjha/seisei)** — Typed AI contracts for Flutter apps.
-
-## Say hi
-If you’re building something interesting in Flutter tooling or dev experience, feel free to reach out.
+- **[Oore CI](https://github.com/oore-ci/oore.build)**. Self-hosted mobile CI and app distribution for Flutter teams. [Docs](https://docs.oore.build) · [Demo](https://demo.oore.build)
+- **[Tagflow](https://github.com/devaryakjha/tagflow)**. A native rich content runtime for Flutter, with HTML support. [pub.dev](https://pub.dev/packages/tagflow)
+- **[Loadwright](https://github.com/devaryakjha/loadwright)**. A Go CLI for running JMeter load tests from readable YAML specs.
+- **[Bonsai](https://github.com/devaryakjha/bonsai)**. A native macOS Git client built with Rust and GPUI.
+- **[Anpec](https://github.com/devaryakjha/anpec)**. A Flutter plugin that classifies Android devices by performance.
+- **[Seisei](https://github.com/devaryakjha/seisei)**. Typed AI contracts for Dart and Flutter.
