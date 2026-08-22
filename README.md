@@ -1,6 +1,6 @@
 # Aryakumar Jha
 
-I build software, mostly with Flutter and Dart. A lot of my side projects are developer tools, with some Rust and Go mixed in.
+Most of my work is in Flutter and Dart. I also build open-source developer tools in Rust and Go.
 
 I work at [Zerodha](https://github.com/zerodha).
 
