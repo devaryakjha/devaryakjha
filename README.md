@@ -14,5 +14,3 @@ I work at [Zerodha](https://github.com/zerodha).
 - **[Bonsai](https://github.com/devaryakjha/bonsai)**. A native macOS Git client built with Rust and GPUI. In development.
 - **[Anpec](https://github.com/devaryakjha/anpec)**. A Flutter plugin that classifies Android devices by performance.
 - **[Seisei](https://github.com/devaryakjha/seisei)**. Typed AI contracts for Dart and Flutter.
-
-![](https://hit.yhype.me/github/profile?account_id=99560530)
